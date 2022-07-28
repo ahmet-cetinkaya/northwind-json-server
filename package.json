@@ -11,7 +11,7 @@
     "api"
   ],
   "scripts": {
-    "start": "json-server --watch src/data/db.json "
+    "start": "json-server --watch src/data/db.json"
   },
   "dependencies": {
     "json-server": "^0.17.0"
