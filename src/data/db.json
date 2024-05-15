@@ -2202,14 +2202,6 @@
       "id": 8,
       "description": "Seaweed and fish",
       "name": "Seafood"
-    },
-    {
-      "id": 9
-    },
-    {
-      "description": "DescTest",
-      "name": "NameTest",
-      "id": 10
     }
   ],
   "suppliers": [
